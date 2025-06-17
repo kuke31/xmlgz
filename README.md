@@ -1,7 +1,7 @@
 # Erw节目单
 当天预告，七天回看，每天00:30 10:05 14:50 各更新一次。国内用户推荐使用 vip.erw.cc Key授权, 
 
-api.erw.cc IP捆绑（当然也可以给我CIDR，主要考虑到部分App不支持）请提供一下IPV4的前三段
+api.erw.cc IP捆绑（当然也可以给我CIDR，主要考虑到部分App不支持带参数）请提供一下IPV4的前三段
 
 发送邮件到 kuke21#vip.qq.com(#换成@) 
 
