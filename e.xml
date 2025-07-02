@@ -33990,7 +33990,15 @@
 <channel id="506">
 <display-name lang="zh">汉语经济生活</display-name>
 </channel>
-
+<programme start="20250702000000 +0800" stop="20250702005000 +0800" channel="506">
+<title lang="zh">精彩呈现</title>
+</programme><programme start="20250702005000 +0800" stop="20250702011000 +0800" channel="506">
+<title lang="zh">直播民生</title>
+</programme><programme start="20250702011000 +0800" stop="20250702014000 +0800" channel="506">
+<title lang="zh">致富田园</title>
+</programme><programme start="20250702014000 +0800" stop="20250702235959 +0800" channel="506">
+<title lang="zh">健康公开课</title>
+</programme>
 <channel id="507">
 <display-name lang="zh">天映马来西亚</display-name>
 </channel>
@@ -37086,11 +37094,21 @@
 <channel id="561">
 <display-name lang="zh">哈萨克语综艺</display-name>
 </channel>
-
+<programme start="20250702000000 +0800" stop="20250702011600 +0800" channel="561">
+<title lang="zh">精彩呈现</title>
+</programme><programme start="20250702011600 +0800" stop="20250702235959 +0800" channel="561">
+<title lang="zh">传承经典感受魅力（178）</title>
+</programme>
 <channel id="562">
 <display-name lang="zh">维吾尔语经济生活</display-name>
 </channel>
-
+<programme start="20250702000000 +0800" stop="20250702011000 +0800" channel="562">
+<title lang="zh">精彩呈现</title>
+</programme><programme start="20250702011000 +0800" stop="20250702014000 +0800" channel="562">
+<title lang="zh">新疆台新闻联播</title>
+</programme><programme start="20250702014000 +0800" stop="20250702235959 +0800" channel="562">
+<title lang="zh">健康公开课</title>
+</programme>
 <channel id="563">
 <display-name lang="zh">汉语体育健康</display-name>
 </channel>
@@ -37144,7 +37162,13 @@
 <channel id="564">
 <display-name lang="zh">汉语信息服务</display-name>
 </channel>
-
+<programme start="20250702000000 +0800" stop="20250702010700 +0800" channel="564">
+<title lang="zh">精彩呈现</title>
+</programme><programme start="20250702010700 +0800" stop="20250702013000 +0800" channel="564">
+<title lang="zh">法在身边</title>
+</programme><programme start="20250702013000 +0800" stop="20250702235959 +0800" channel="564">
+<title lang="zh">致富田园</title>
+</programme>
 <channel id="565">
 <display-name lang="zh">黄金翡翠台</display-name>
 </channel>
