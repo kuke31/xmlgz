@@ -65,11 +65,11 @@ http://e.erw.cc/allcc.xml.gz
 ```
 ## 🤝 感谢支持
 
-本项目的 CDN 加速及安全防护由 [Tencent EdgeOne]([https://edgeone.ai](https://edgeone.ai/zh?from=github)) 赞助支持。  
+本项目的 CDN 加速及安全防护由 [Tencent EdgeOne](https://edgeone.ai/zh?from=github) 赞助支持。  
 亚洲最佳 CDN、边缘与安全解决方案 —— Tencent EdgeOne。
 
 <p align="left">
-  <a href="[https://edgeone.ai](https://edgeone.ai/zh?from=github)" target="_blank">
+  <a href="https://edgeone.ai/zh?from=github" target="_blank">
     <img src="https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png" alt="Tencent EdgeOne Logo" width="200"/>
   </a>
 </p>
