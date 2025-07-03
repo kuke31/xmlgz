@@ -10922,7 +10922,81 @@
 <channel id="255">
 <display-name lang="zh">中国天气</display-name>
 </channel>
-
+<programme start="20250703000000 +0800" stop="20250703010000 +0800" channel="255">
+<title lang="zh">午夜新闻</title>
+</programme><programme start="20250703010000 +0800" stop="20250703012100 +0800" channel="255">
+<title lang="zh">新闻直播间</title>
+</programme><programme start="20250703012100 +0800" stop="20250703013700 +0800" channel="255">
+<title lang="zh">焦点访谈</title>
+</programme><programme start="20250703013700 +0800" stop="20250703020000 +0800" channel="255">
+<title lang="zh">法治在线</title>
+</programme><programme start="20250703020000 +0800" stop="20250703023300 +0800" channel="255">
+<title lang="zh">新闻直播间</title>
+</programme><programme start="20250703023300 +0800" stop="20250703030000 +0800" channel="255">
+<title lang="zh">新闻11</title>
+</programme><programme start="20250703030000 +0800" stop="20250703034400 +0800" channel="255">
+<title lang="zh">新闻直播间</title>
+</programme><programme start="20250703034400 +0800" stop="20250703040000 +0800" channel="255">
+<title lang="zh">焦点访谈</title>
+</programme><programme start="20250703040000 +0800" stop="20250703043300 +0800" channel="255">
+<title lang="zh">新闻直播间</title>
+</programme><programme start="20250703043300 +0800" stop="20250703050000 +0800" channel="255">
+<title lang="zh">新闻11</title>
+</programme><programme start="20250703050000 +0800" stop="20250703051800 +0800" channel="255">
+<title lang="zh">新闻直播间</title>
+</programme><programme start="20250703051800 +0800" stop="20250703053400 +0800" channel="255">
+<title lang="zh">焦点访谈</title>
+</programme><programme start="20250703053400 +0800" stop="20250703055900 +0800" channel="255">
+<title lang="zh">法治在线</title>
+</programme><programme start="20250703055900 +0800" stop="20250703060000 +0800" channel="255">
+<title lang="zh">中华人民共和国国歌</title>
+</programme><programme start="20250703060000 +0800" stop="20250703070000 +0800" channel="255">
+<title lang="zh">朝闻天下</title>
+</programme><programme start="20250703070000 +0800" stop="20250703070100 +0800" channel="255">
+<title lang="zh">中华人民共和国国歌</title>
+</programme><programme start="20250703070100 +0800" stop="20250703090000 +0800" channel="255">
+<title lang="zh">朝闻天下</title>
+</programme><programme start="20250703090000 +0800" stop="20250703100000 +0800" channel="255">
+<title lang="zh">新闻直播间</title>
+</programme><programme start="20250703100000 +0800" stop="20250703110000 +0800" channel="255">
+<title lang="zh">新闻直播间</title>
+</programme><programme start="20250703110000 +0800" stop="20250703120000 +0800" channel="255">
+<title lang="zh">新闻直播间</title>
+</programme><programme start="20250703120000 +0800" stop="20250703123400 +0800" channel="255">
+<title lang="zh">新闻30分</title>
+</programme><programme start="20250703123400 +0800" stop="20250703130000 +0800" channel="255">
+<title lang="zh">法治在线</title>
+</programme><programme start="20250703130000 +0800" stop="20250703140000 +0800" channel="255">
+<title lang="zh">新闻直播间</title>
+</programme><programme start="20250703140000 +0800" stop="20250703150000 +0800" channel="255">
+<title lang="zh">新闻直播间</title>
+</programme><programme start="20250703150000 +0800" stop="20250703160000 +0800" channel="255">
+<title lang="zh">新闻直播间</title>
+</programme><programme start="20250703160000 +0800" stop="20250703170000 +0800" channel="255">
+<title lang="zh">新闻直播间</title>
+</programme><programme start="20250703170000 +0800" stop="20250703180000 +0800" channel="255">
+<title lang="zh">新闻直播间</title>
+</programme><programme start="20250703180000 +0800" stop="20250703190000 +0800" channel="255">
+<title lang="zh">共同关注</title>
+</programme><programme start="20250703190000 +0800" stop="20250703193100 +0800" channel="255">
+<title lang="zh">新闻联播</title>
+</programme><programme start="20250703193100 +0800" stop="20250703193900 +0800" channel="255">
+<title lang="zh">天气预报</title>
+</programme><programme start="20250703193900 +0800" stop="20250703200000 +0800" channel="255">
+<title lang="zh">焦点访谈</title>
+</programme><programme start="20250703200000 +0800" stop="20250703210000 +0800" channel="255">
+<title lang="zh">东方时空</title>
+</programme><programme start="20250703210000 +0800" stop="20250703213000 +0800" channel="255">
+<title lang="zh">新闻联播</title>
+</programme><programme start="20250703213000 +0800" stop="20250703220000 +0800" channel="255">
+<title lang="zh">新闻11</title>
+</programme><programme start="20250703220000 +0800" stop="20250703223000 +0800" channel="255">
+<title lang="zh">国际时讯</title>
+</programme><programme start="20250703223000 +0800" stop="20250703230000 +0800" channel="255">
+<title lang="zh">环球视线</title>
+</programme><programme start="20250703230000 +0800" stop="20250703235959 +0800" channel="255">
+<title lang="zh">24小时</title>
+</programme>
 <channel id="261">
 <display-name lang="zh">农林卫视</display-name>
 </channel>
