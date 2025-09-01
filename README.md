@@ -5,66 +5,55 @@
 
 当天节目单文件：e.xml
 ```
-https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml
-```
-```
 http://e.erw.cc/e.xml
 ```
 当天压缩包文件：e.xml.gz
 ```
-https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz
-```
-```
 http://e.erw.cc/e.xml.gz
+```
+```
+https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz
 ```
 
 当天央卫数文件：cc.xml
-```
-https://raw.githubusercontent.com/kuke31/xmlgz/main/cc.xml
-```
 ```
 http://e.erw.cc/cc.xml
 ```
 
 当天央卫数压缩包文件：cc.xml.gz
 ```
-https://raw.githubusercontent.com/kuke31/xmlgz/main/cc.xml.gz
-```
-```
 http://e.erw.cc/cc.xml.gz
+```
+```
+https://raw.githubusercontent.com/kuke31/xmlgz/main/cc.xml.gz
 ```
 
 回看七天（含当天）文件：all.xml
-```
-https://raw.githubusercontent.com/kuke31/xmlgz/main/all.xml
-```
 ```
 http://e.erw.cc/all.xml
 ```
 
 回看七天压缩包（含当天）文件：all.xml.gz
 ```
-https://raw.githubusercontent.com/kuke31/xmlgz/main/all.xml.gz
-```
-```
 http://e.erw.cc/all.xml.gz
+```
+```
+https://raw.githubusercontent.com/kuke31/xmlgz/main/all.xml.gz
 ```
 
 回看七天央卫数文件：allcc.xml
-```
-https://raw.githubusercontent.com/kuke31/xmlgz/main/allcc.xml
-```
 ```
 http://e.erw.cc/allcc.xml
 ```
 
 回看七天央卫数压缩包文件：allcc.xml.gz
 ```
-https://raw.githubusercontent.com/kuke31/xmlgz/main/allcc.xml.gz
-```
-```
 http://e.erw.cc/allcc.xml.gz
 ```
+```
+https://raw.githubusercontent.com/kuke31/xmlgz/main/allcc.xml.gz
+```
+
 ## 🤝 感谢支持
 
 本项目的 CDN 加速及安全防护由 [Tencent EdgeOne](https://edgeone.ai/zh?from=github) 赞助支持。  
