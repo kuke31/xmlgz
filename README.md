@@ -1,5 +1,8 @@
 # Erw节目单
-2025-09-01 Github仓库不在提供xml 仅保留gz，如需使用xml请移步 e.erw.cc（全球）vip.erw.cc (国内)
+广告：111元 三年付云服务器16C16G20M 错过再等一年
+```
+https://erw.cc/post-104.html
+```
 
 当天预告，七天回看，每天00:30 10:05 14:50 各更新一次。国内用户推荐使用 vip.erw.cc Key鉴权, 发送邮件到 kuke21#vip.qq.com(#换成@) 
 
