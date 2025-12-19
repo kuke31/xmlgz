@@ -1,8 +1,4 @@
 # Erw节目单
-广告：111元 三年付云服务器16C16G20M 错过再等一年
-```
-https://erw.cc/post-104.html
-```
 
 当天预告，七天回看，每天00:30 10:05 14:50 各更新一次。国内用户推荐使用 vip.erw.cc Key鉴权, 发送邮件到 kuke21#vip.qq.com(#换成@) 
 
@@ -56,14 +52,3 @@ http://e.erw.cc/allcc.xml.gz
 ```
 https://raw.githubusercontent.com/kuke31/xmlgz/main/allcc.xml.gz
 ```
-
-## 🤝 感谢支持
-
-本项目的 CDN 加速及安全防护由 [Tencent EdgeOne](https://edgeone.ai/zh?from=github) 赞助支持。  
-亚洲最佳 CDN、边缘与安全解决方案 —— Tencent EdgeOne。
-
-<p align="left">
-  <a href="https://edgeone.ai/zh?from=github" target="_blank">
-    <img src="https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png" alt="Tencent EdgeOne Logo" width="200"/>
-  </a>
-</p>
