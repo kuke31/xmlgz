@@ -7,17 +7,7 @@
 https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz
 ```
 
-当天央卫数压缩包文件：cc.xml.gz
-```
-https://raw.githubusercontent.com/kuke31/xmlgz/main/cc.xml.gz
-```
-
 回看七天压缩包（含当天）文件：all.xml.gz
 ```
 https://raw.githubusercontent.com/kuke31/xmlgz/main/all.xml.gz
-```
-
-回看七天央卫数压缩包文件：allcc.xml.gz
-```
-https://raw.githubusercontent.com/kuke31/xmlgz/main/allcc.xml.gz
 ```
